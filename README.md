@@ -1,3 +1,2 @@
 # Bank-Register
-### Program to create a list of checks made from user input
-### check number, date, transaction, amount
+### Simple C program to create bank register from user input and output to '.csv' file as "check number, date, transaction, amount."
